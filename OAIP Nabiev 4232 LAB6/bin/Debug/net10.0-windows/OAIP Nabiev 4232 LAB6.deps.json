@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OAIP Nabiev 4232 LAB6/1.0.0": {
+        "runtime": {
+          "OAIP Nabiev 4232 LAB6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OAIP Nabiev 4232 LAB6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
